@@ -1,5 +1,9 @@
 # GG3209 Research Report : Residential Suitability in Dumfries, Scotland
 
+Student ID: 230012841
+
+Course: GG3209 – Python for Spatial Analysis
+
 ## Overview
 
 This repository contains the code and analysis for an independent research project assessing which areas around Dumfries, Scotland, are most suitable for new residential development when accounting for projected future flood risk from the River Nith.
