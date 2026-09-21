@@ -2,7 +2,7 @@
 
 Student ID: 230012841
 
-Course: GG3209 – Python for Spatial Analysis
+Course: GG3209 – Spatial Analysis with GIS
 
 ## Overview
 
