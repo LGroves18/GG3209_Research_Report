@@ -14,8 +14,8 @@ This repository contains the code and analysis for an independent research proje
 
 A GIS-based Multi-Criteria Evaluation (MCE) was conducted, combining:
 
-- **Spatial preprocessing in QGIS:** study area definition (5km buffer around Dumfries), data clipping, rasterisation, distance surface generation, and standardisation of suitability criteria.
-- **Weighting and overlay in Python:** visualisation and some statistics.
+- **Spatial preprocessing in QGIS:** study area definition (5km buffer around Dumfries), data clipping, rasterisation, distance surface generation,  standardisation and weighting of suitability criteria.
+- **Python:** visualisation and some statistics.
 
 **Continuous suitability factors** (standardised 0–1, equal weighting):
 - Distance to roads
